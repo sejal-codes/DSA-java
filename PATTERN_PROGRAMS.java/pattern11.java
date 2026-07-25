@@ -7,7 +7,7 @@
 *****
 */
 
-public class pat5 {
+public class pat11 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("enter n:");
