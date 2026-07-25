@@ -1,10 +1,10 @@
 /* for n=5
 
-*****
-*   *
-*   *
-*   *
-*****
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
 */
 
 public class pat11 {
