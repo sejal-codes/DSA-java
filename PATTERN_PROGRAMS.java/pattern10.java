@@ -1,5 +1,5 @@
 /* prints the following pattern:
-  **********
+**********    for n=5
 ****  ****
 ***    ***
 **      **
